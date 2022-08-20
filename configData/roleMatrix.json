@@ -1,0 +1,9 @@
+[{
+    "roleId":1,
+    "roleName":"SuperAdmin",
+    "sectionOne":true
+},{
+    "roleId":2,
+    "roleName":"Admin",
+    "sectionOne":true
+}]
